@@ -8,7 +8,6 @@ import org.openqa.selenium.remote.BrowserType;
 import java.time.Duration;
 
 public class ApplicationManager {
-
     String browser;
     WebDriver driver;
     MainPageHelper mainPage;
